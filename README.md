@@ -40,26 +40,6 @@ A **Sorriso Perfeito** é uma clínica odontológica fictícia. Este projeto con
 
 ---
 
-## 🗂️ Estrutura de Pastas
-
-```plaintext
-projetoSorrisoPerfeito/
-├── index.html                 # Página principal
-├── styles/
-│   └── styles.css             # Estilos principais
-├── scripts/
-│   └── script.js              # Interatividade JS
-├── assets/
-│   └── img/
-│       ├── logo_sorrisoPerfeito.png
-│       ├── sorriso_1.jpg
-│       ├── sorriso_2.jpeg
-│       └── sorriso_3.jpg
-└── README.md                  # Documentação do projeto
-```
-
----
-
 ## 👨‍💻 Desenvolvedores
 nome: Higor Carboni
 email: ohigor.carboni@gmail.com
